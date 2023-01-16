@@ -1,16 +1,5 @@
 # whatsapp_ui
+![Screenshot (73)](https://user-images.githubusercontent.com/109581121/212594167-c182c972-6202-4557-a96d-237622dcd9ad.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (72)](https://user-images.githubusercontent.com/109581121/212594185-eef9bcb8-270c-4718-bd1a-842eb998d21d.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/109581121/212594197-288099a1-fe96-4453-a911-551251112b24.png)
